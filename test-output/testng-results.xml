@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T22:21:56 IST" name="Suite" finished-at="2023-11-14T22:22:04 IST" duration-ms="8449">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T22:21:56 IST" name="Test" finished-at="2023-11-14T22:22:04 IST" duration-ms="8449">
+      <class name="TestCases.DoSomeAction">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestCases.DoSomeAction@9225652]" started-at="2023-11-14T22:21:56 IST" name="beforeTest" finished-at="2023-11-14T22:22:00 IST" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Test()[pri:0, instance:TestCases.DoSomeAction@9225652]" started-at="2023-11-14T22:22:01 IST" name="Test" finished-at="2023-11-14T22:22:02 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestCases.DoSomeAction@9225652]" started-at="2023-11-14T22:22:04 IST" name="afterTest" finished-at="2023-11-14T22:22:04 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestCases.DoSomeAction -->
+      <class name="TestCases.GoToURL">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestCases.GoToURL@e056f20]" started-at="2023-11-14T22:22:00 IST" name="beforeTest" finished-at="2023-11-14T22:22:01 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Test()[pri:0, instance:TestCases.GoToURL@e056f20]" started-at="2023-11-14T22:22:01 IST" name="Test" finished-at="2023-11-14T22:22:04 IST" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestCases.GoToURL@e056f20]" started-at="2023-11-14T22:22:04 IST" name="afterTest" finished-at="2023-11-14T22:22:04 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestCases.GoToURL -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
