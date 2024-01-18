@@ -4,6 +4,8 @@ java -jar selenium-server-4.15.0.jar  node --detect-drivers true
 
 java -jar selenium-server-4.15.0.jar  node --selenium-manager true
 
+java -jar selenium-server-4.15.0.jar  node --hub http://localhost:4444
+
 For starting the Hub:
 
 java -jar selenium-server-4.15.0.jar  hub
