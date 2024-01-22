@@ -4,7 +4,7 @@ java -jar selenium-server-4.15.0.jar  node --detect-drivers true
 
 java -jar selenium-server-4.15.0.jar  node --selenium-manager true
 
-java -jar selenium-server-4.15.0.jar  node --hub http://localhost:4444
+java -jar selenium-server-4.15.0.jar  node --hub http://localhost:4444  -> If using docker grid and want to use your system as node.
 
 For starting the Hub:
 
